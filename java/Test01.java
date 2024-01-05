@@ -8,8 +8,9 @@ public class Test01 {
 		int b = 10;			// 4
 		char c = 'A';		// 1
 		
-		String d = "SSG";	// 8 -> ÁÖ¼Ò°ª ÇÒ´ç (64bit ¿î¿µÃ¼Á¦)
-		
+		String d = "SSG";	// 8 -> ï¿½Ö¼Ò°ï¿½ ï¿½Ò´ï¿½ (64bit ï¿½î¿µÃ¼ï¿½ï¿½)
+		d.equals("SSG");
+		d.hashCode();
 	}
 
 }

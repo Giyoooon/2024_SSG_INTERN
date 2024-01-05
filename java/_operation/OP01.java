@@ -1,4 +1,4 @@
-package org.ssg2024;
+package org.ssg2024._operation;
 
 public class OP01 {
 

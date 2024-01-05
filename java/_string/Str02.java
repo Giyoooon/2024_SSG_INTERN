@@ -1,4 +1,4 @@
-package org.ssg2024;
+package org.ssg2024._string;
 
 public class Str02 {
 	public static void main(String[] args) {

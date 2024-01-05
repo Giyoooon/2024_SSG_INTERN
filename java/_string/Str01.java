@@ -1,4 +1,4 @@
-package org.ssg2024;
+package org.ssg2024._string;
 
 import java.util.Scanner;
 
